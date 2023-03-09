@@ -1,2 +1,1 @@
-# mi-primer-repositorio
-mi primer repositori
+Este es un proyecto de prueba
